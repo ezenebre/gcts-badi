@@ -13,7 +13,7 @@
 
     COMMIT ENTITIES BEGIN RESPONSE OF i_purchaseordertp_2 FAILED DATA(failed_u) REPORTED DATA(reported_u).
     COMMIT ENTITIES END.
-"
+
 
 
   ENDMETHOD.
